@@ -16,10 +16,18 @@
 I develop websites, build technical communities, love meeting new people!
 
 - 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning React Js
 
+### Tools and Technology
 
-  <summary>:chart_with_upwards_trend:GitHub Profile Stats</summary>
+---
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+### :chart_with_upwards_trend:GitHub Profile Stats
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=rickie-ui&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickie-ui&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />

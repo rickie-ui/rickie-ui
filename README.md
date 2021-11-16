@@ -5,10 +5,6 @@
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me Twitter @rickie_ui
 --->
-<!---
-rickie-ui/rickie-ui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ## Hey! I'm rickie-ui. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -18,3 +14,6 @@ You can click the Preview link to take a look at your changes.
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=rickie-ui&left_color=gray&right_color=blue)
   
 I develop websites, build technical communities, love meeting new people!
+
+- 👀 I’m interested in Front End Web Development and Cybersecurity
+- 🌱 I’m currently learning React Js

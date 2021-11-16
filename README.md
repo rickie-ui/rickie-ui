@@ -15,5 +15,5 @@
   
 I develop websites, build technical communities, love meeting new people!
 
-- 👀 I’m interested in Front End Web Development and Cybersecurity
+- 👀 I’m interested in Front End Web Development
 - 🌱 I’m currently learning React Js

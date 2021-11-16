@@ -17,3 +17,14 @@ I develop websites, build technical communities, love meeting new people!
 
 - 👀 I’m interested in Front End Web Development
 - 🌱 I’m currently learning React Js
+
+## 📊 My Github stats
+
+<details>
+  <summary>:chart_with_upwards_trend:GitHub Profile Stats</summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rickie-ui&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickie-ui&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
+  <br/>
+ 
+</details>

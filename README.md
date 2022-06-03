@@ -26,4 +26,6 @@ I write code, build communities, love meeting new people!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickie-ui&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
   <br/>
  </span>
+ 
+ <a href="http://www.github.com/rickie-ui"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rickie-ui&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   

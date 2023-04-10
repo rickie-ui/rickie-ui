@@ -22,7 +22,7 @@ I write code, build communities, love meeting new people!
 ### :chart_with_upwards_trend:GitHub Profile Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=rickie-ui&theme=radical&hide_border=false&include_all_commits=false&count_private=false) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rickie-ui&theme=radical&hide_border=false&float=right)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=rickie-ui&theme=radical&hide_border=false&float=right) -->
 <br/>
 
 ### ✍️Random Dev Quote

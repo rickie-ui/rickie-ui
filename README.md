@@ -21,7 +21,7 @@ I write code, build communities, love meeting new people!
 ![MongoDB](https://img.shields.io/badge/MongoDB-001C29?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![PHP](https://img.shields.io/badge/php-%23404d59.svg?style=for-the-badge&logo=php&logoColor=%7A86B8)
-![LARAVEL](https://img.shields.io/badge/laravel-F3413E?style=for-the-badge&logo=laravel&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/laravel-F3413E?style=for-the-badge&logo=laravel&logoColor=FFFFFF)
 
 
 ### :chart_with_upwards_trend:GitHub Profile Stats

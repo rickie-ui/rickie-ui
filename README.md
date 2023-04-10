@@ -20,7 +20,7 @@ I write code, build communities, love meeting new people!
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-001C29?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23404d59.svg?style=for-the-badge&logo=php&logoColor=%7A86B8)
+![PHP](https://img.shields.io/badge/php-%2B2B2B.svg?style=for-the-badge&logo=php&logoColor=%7A86B8)
 ![LARAVEL](https://img.shields.io/badge/laravel-F3413E?style=for-the-badge&logo=laravel&logoColor=FFFFFF)
 
 

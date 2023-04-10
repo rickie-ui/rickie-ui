@@ -18,7 +18,7 @@ I write code, build communities, love meeting new people!
 ![css](https://img.shields.io/badge/CSS-278EC3?style=for-the-badge&logo=css3&logoColor=E9E9E9)
 ![JavaScript](https://img.shields.io/badge/JavaScript-EDB94F?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%15304B.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB)
 
 
 ### :chart_with_upwards_trend:GitHub Profile Stats

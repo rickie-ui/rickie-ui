@@ -3,9 +3,7 @@
 
 ### 🌐Socials
 
-[![GitHub rickie-ui](https://img.shields.io/github/followers/rickie-ui?label=follow&style=social)](https://github.com/rickie-ui)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muciraerick)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rickie_ui)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rickie_ui)
   
 I write code, build communities, love meeting new people!

@@ -9,7 +9,7 @@
 As a software developer with two years of experience, I possess a strong command of a diverse range of languages and frameworks including HTML, CSS, Tailwind CSS, Styled-Components, JavaScript, jQuery React.js, and Laravel. With expertise in front-end development, I am skilled in creating visually appealing and responsive web designs. Additionally, my proficiency extends to back-end development utilizing Laravel, enabling me to build robust and scalable applications.
 
 * 🌍  I'm based in Nairobi, Kenya
-* 🖥️  Portfolio [visit](http://muciraerick.netlify.app)
+* 🖥️  Portfolio [visit](https://muciraerick.netlify.app){:target="_blank"}
 * 🧠  I'm learning React js and Laravel
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm a F1 fun supporting Mercedes AMG F1 Team

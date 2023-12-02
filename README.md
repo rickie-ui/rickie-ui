@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muciraerick)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rickie_ui)
   
-As a software developer with two years of experience, I possess a strong command of a diverse range of languages and frameworks including HTML, CSS, Tailwind CSS, Styled-Components, JavaScript, jQuery React.js, and Laravel. With expertise in front-end development, I am skilled in creating visually appealing and responsive web designs. Additionally, my proficiency extends to back-end development utilizing Laravel, enabling me to build robust and scalable applications.
+As a software developer with two years of experience, I possess a strong command of a diverse range of languages and frameworks including HTML, CSS, Tailwind CSS, Styled-Components, JavaScript, jQuery, Typescript and React.js. With expertise in front-end development, I am skilled in creating visually appealing and responsive web designs. Additionally, my proficiency extends to back-end development utilizing Laravel, enabling me to build robust and scalable applications.
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  Portfolio [visit](https://muciraerick.netlify.app)

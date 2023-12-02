@@ -10,7 +10,7 @@ As a software developer with two years of experience, I possess a strong command
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  Portfolio [visit](https://muciraerick.netlify.app)
-* 🧠  I'm learning React js and Laravel
+* 🧠  I'm learning more about React x Typescript
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm a F1 fun supporting Mercedes AMG F1 Team
 ---

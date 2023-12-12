@@ -23,3 +23,10 @@ As a software developer with two years of experience, I possess a strong command
 ![Typescript](https://img.shields.io/badge/Typescript-3074C0?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%62D9F7)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-15304B.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h4>📊 Stats</h4>
+<div align="center">
+<a href="https://github.com/rickie-ui">
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rickie-ui&theme=material_palenight" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rickie-ui&theme=material_palenight" height="180em" />
+</div>

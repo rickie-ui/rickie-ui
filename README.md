@@ -6,4 +6,4 @@ I write code with purpose — thoughtful on the backend, expressive on the front
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  Portfolio [visit](https://muciraerick.netlify.app)
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm a F1 fun supporting Scuderia Ferrari F1 Team
+* ⚡  F1 fan rooting for Scuderia Ferrari all the way!
